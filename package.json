@@ -1,0 +1,26 @@
+{
+  "name": "hazel-test",
+  "version": "1.0.0",
+  "description": "hazel-test-theproperway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerajk/KnowledgeBase.git"
+  },
+  "keywords": [
+    "hazeltest",
+    "internaltool"
+  ],
+  "author": "LR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lerajk/KnowledgeBase/issues"
+  },
+  "homepage": "https://github.com/lerajk/KnowledgeBase#readme",
+  "dependencies": {
+    "hazel-wiki": "^1.1.7"
+  }
+}
